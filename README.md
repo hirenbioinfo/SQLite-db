@@ -1,4 +1,4 @@
-# Microbiology Lab Database Project
+# Microbiology Lab Database Sequencing database
 
 Author: Hiren Ghosh  
 Affiliation: UKF, Freiburg
@@ -19,7 +19,7 @@ This project involves creating and interacting with an SQLite database for a mic
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.7
 - sqlite3 library
 - Tkinter library
 
