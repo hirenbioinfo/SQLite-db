@@ -3,7 +3,7 @@
 Author: Hiren Ghosh  
 Affiliation: UKF, Freiburg
 
-This project involves creating and interacting with an SQLite database for a microbiology lab. The goal is to store and manage data related to sequencing samples using a graphical user interface (GUI) built with Tkinter.
+This project involves creating and interacting with an SQLite database for a microbiology lab. The goal is to store and manage NGS data related to sequencing samples using a graphical user interface (GUI) built with Tkinter. It is also possible to run on command line using jupyter-notebook
 
 ## Project Steps
 
